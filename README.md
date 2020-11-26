@@ -5,3 +5,10 @@ Neural networks are not a new method, the first artificial neural network was de
 <img src="./h1.png" alt="Editor" width="700">
 
 <img src="./h2.png" alt="Editor" width="700">
+
+
+# Result
+
+- The prediction accuracy of the model is 94%. The true positive rate (sensitivity) is 93.18% ，indicating that 93.18% of the absent-minded students(not paying attention) was correctly predicted and the true negative rate is 94.64%, showing that 94.69% of the students who are concentrated were corrected predicted.
+ 
+- To sum up, the model successfully predicted whether the students were paying attention 94% of the time. 93.18% of the students who indeed paid attention during the online discussion were predicted to pay attention. 94.64% of students who were predicted not to pay attention during the online discussion, did not actually pay attention.
