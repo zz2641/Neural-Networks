@@ -19,9 +19,12 @@ Second network model plot, with 2 hidden layers
 - To sum up, the model successfully predicted whether the students were paying attention 94% of the time. 93.18% of the students who indeed paid attention during the online discussion were predicted to pay attention. 94.64% of students who were predicted not to pay attention during the online discussion, did not actually pay attention.
 
 
-This is a very simple example of a neural network. Real facial recognition is very complex though. Would a neural network be a good solution for predicting real facial movements? Why, why not? 
 
  # Comments:
+ 
+This is a very simple example of a neural network. Real facial recognition is very complex though. Would a neural network be a good solution for predicting real facial movements? Why, why not? 
+
+
  - A neural network would be a good solution for prediction real facial movements. Recognition+Prediction
  
  - First, instead of just using several features determined by us human, the computer can train itself and learn the critical features that are most useful for face recognition. The solution is to train a Deep Convolutional Neural Network. The computer will be trained to generate 128 measurements for each face. These procedure will incresase the accuracy of face recognition. 
