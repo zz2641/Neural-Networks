@@ -5,7 +5,7 @@ Neural networks are not a new method, the first artificial neural network was de
 `library(tidyverse)`<br>
 `library(neuralnet)`
 
-
+# PLots of the models
 <img src="./h1.png" alt="Editor" width="700">
 First network model plot, with only 1 hidden layer
 
